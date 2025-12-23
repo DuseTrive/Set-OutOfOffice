@@ -1,10 +1,15 @@
-# Set-OutOfOffice 🏖️
+# Set-Out Of Office 🏖️
 
-A PowerShell script for bulk configuration of Out of Office automatic replies across multiple Exchange Online mailboxes using Microsoft Graph API.
+Are you an IT admin frustrated with setting up Out of Office notifications one mailbox at a time? 😤
+Want a tool that lets you set Out of Office notifications in bulk across multiple users?
+Here it is — your bulk Out of Office automation tool 🚀
+Configure automatic replies for multiple mailboxes in one go using PowerShell and Microsoft Graph.
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-API-orange)
+
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRidXowOHgwaTd5bmtjZmVmeHkxYnY4N2twNGVpcmEyMmRpMGRtMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PCvSmNGvDmCJlo5jyG/giphy.gif)
 
 ## Features
 
